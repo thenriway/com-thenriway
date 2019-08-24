@@ -20,12 +20,13 @@ What do you need to know about becoming a renter or a tenant in Australia
 4>  You need to provide 100 points worth of personal ID to lodge the application in most cases. Different type of Ids get different points . Here is a short list of type of Ids and pints associated.
 
 
-30 Points	20 Point	10 Points
-Passport	Birth certificate	Gas/electricity bill
-Australian drivers licence	Australian Citizenship Certificate	Private healthcare card
-Payslip	Medicare card	Telephone bil
-Bank Statements	Vehicle registration certificate
-Credit cardBank ATM card
+| 30 Points|	20 Point|	10 Points|
+|---|--- 
+|Passport|	Birth certificate|	Gas/electricity bill
+|Australian drivers licence|	Australian Citizenship Certificate|	Private healthcare card
+|Payslip|	Medicare card|	Telephone bil
+| | Bank Statements|	Vehicle registration certificate|
+| | Credit cardBank ATM card |
 
 There Could be a lot of other forms of Ids in the list depending on the agency . Following links have very useful information for renters
 
@@ -47,7 +48,7 @@ If you are a new new migrant to Australia like we were, you might have difficult
 
 However this is where the luck factor plays a role. If I am an owner, I would give my house to someone with a nice rental history in Australia, rather than giving it to the guy who has no rental history in altogether.  So if your luck favours , you would find a property where you dont have competitors.
 
-How we got our first property ?
+### How we got our first property
 
  
 
